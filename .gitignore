@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.py~
+
+
+# Node.js
+todo-infra/cdk.out/node_modules/
+todo-infra/node_modules/
+todo-infra/venv
+todo-infra/test
+todo-site/out
+*.zip
+
+
+# npm output directory
+npm-out/
+
+# Visual Studio Code
+.vscode/
+
+# FastAPI
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.py~
