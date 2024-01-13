@@ -1,5 +1,5 @@
 # TodoApp on AWS
-
+AWS LINK: http://todoinfrastack-todositebucket2627fe8a-h31e4musfnja.s3-website.ap-south-1.amazonaws.com/
 This is a TodoApp implemented on AWS using AWS CDK, DynamoDB, and S3.
 
 ## Architecture
